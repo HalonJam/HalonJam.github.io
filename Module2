@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jami nettisivu</title>
+</head>
+<body>
+    <header>
+        <h1>Tervetuloa mun nettisivulle</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Koti</a></li>
+            <li><a href="#about">Tietoa</a></li>
+            <li><a href="#footer">Ota yhteyttä</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Koti</h2>
+        <p>Täkeimmät tiedot nettisivusta</p>
+    </main>
 
+    <footer id="footer">
+        <p>2025 Jami Halonen</p>
+
+    </footer>
+</body>
+</html>
